@@ -1,0 +1,5 @@
+Diese Datei enthält Informationen über mich. 
+Ich bin Asmit, 16 Jahre alt. 
+Ich lerne die Programmiersprache Python. 
+Dies ist eines der vielen Programme, die ich schreiben möchte. 
+Danke.
